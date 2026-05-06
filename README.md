@@ -39,7 +39,7 @@ Business intelligence presentation summarizing findings, churn risks,
 revenue impact, and strategic recommendations for telecom retention initiatives.
 </p>
 
-<h3>🖥 telecom_dataset_dashboard_ChatGPT.html</h3>
+<h3>🖥 telecom_dataset_dashboard.html</h3>
 <p>
 Interactive dashboard built with HTML, JavaScript, Chart.js, and SheetJS featuring:
 </p>
